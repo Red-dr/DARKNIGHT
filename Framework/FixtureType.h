@@ -1,0 +1,16 @@
+#pragma once
+
+
+enum FixtureType
+{
+	PLAYER = 3 , 
+	ENEMEY_CULTIST, 
+	ENEMY_MONSTER, 
+	ENEMY_BOSS,
+	PLATFORM,
+	PLAYER_SENSOR_ATTACK,
+	SENSOR_FOOT,
+	SENSOR_ENEMY,
+	ENEMY
+};
+
